@@ -1,0 +1,1001 @@
+id,name,source,category,size
+1,Threat Intel Feed 0001,Partner Org,threat_intel,28414
+2,Identity Access Logs 0002,Vendor A,endpoint,966
+3,Endpoint Telemetry 0003,CISA,cloud,13145
+4,SIEM Alerts 0004,Internal SOC,endpoint,11139
+5,Cloud Audit Trails 0005,Open Source,endpoint,30439
+6,Email Gateway Logs 0006,Partner Org,threat_intel,37850
+7,Email Gateway Logs 0007,Partner Org,cloud,28955
+8,Web Proxy Logs 0008,CISA,identity,22951
+9,Email Gateway Logs 0009,Vendor B,threat_intel,35305
+10,SIEM Alerts 0010,CISA,dns,376
+11,Endpoint Telemetry 0011,Vendor B,dns,7812
+12,Vulnerability Scan Results 0012,Partner Org,web,5054
+13,Cloud Audit Trails 0013,Vendor B,dns,35505
+14,Web Proxy Logs 0014,Partner Org,email,49757
+15,Email Gateway Logs 0015,MITRE ATT&CK,siem,37457
+16,DNS Query Logs 0016,Vendor B,threat_intel,41481
+17,SIEM Alerts 0017,Vendor A,siem,18833
+18,Endpoint Telemetry 0018,Internal SOC,endpoint,39335
+19,Network Logs 0019,CISA,endpoint,48844
+20,Endpoint Telemetry 0020,Vendor B,network,14889
+21,DNS Query Logs 0021,Vendor A,identity,41493
+22,Network Logs 0022,Vendor A,web,31564
+23,Vulnerability Scan Results 0023,Vendor A,network,9886
+24,Endpoint Telemetry 0024,Open Source,identity,11478
+25,Threat Intel Feed 0025,Open Source,identity,12883
+26,Cloud Audit Trails 0026,Vendor A,siem,39999
+27,SIEM Alerts 0027,Vendor B,cloud,29844
+28,Web Proxy Logs 0028,CISA,threat_intel,2707
+29,Endpoint Telemetry 0029,Vendor B,threat_intel,24900
+30,Vulnerability Scan Results 0030,MITRE ATT&CK,dns,38828
+31,Email Gateway Logs 0031,Open Source,threat_intel,10134
+32,Endpoint Telemetry 0032,Internal SOC,endpoint,26975
+33,DNS Query Logs 0033,Partner Org,web,25622
+34,SIEM Alerts 0034,Internal SOC,network,20997
+35,Threat Intel Feed 0035,Vendor A,network,11250
+36,Vulnerability Scan Results 0036,MITRE ATT&CK,vulnerability,27581
+37,Email Gateway Logs 0037,Open Source,threat_intel,21933
+38,Threat Intel Feed 0038,Partner Org,cloud,38569
+39,Email Gateway Logs 0039,Internal SOC,threat_intel,409
+40,DNS Query Logs 0040,Vendor A,cloud,41048
+41,Email Gateway Logs 0041,CISA,vulnerability,3456
+42,Identity Access Logs 0042,Internal SOC,dns,34908
+43,Endpoint Telemetry 0043,Internal SOC,identity,17219
+44,Vulnerability Scan Results 0044,Open Source,siem,37279
+45,Network Logs 0045,Vendor B,dns,41061
+46,DNS Query Logs 0046,Internal SOC,threat_intel,18152
+47,Vulnerability Scan Results 0047,Open Source,email,23911
+48,Identity Access Logs 0048,Vendor A,vulnerability,29078
+49,Threat Intel Feed 0049,Vendor B,network,3807
+50,SIEM Alerts 0050,CISA,email,11990
+51,SIEM Alerts 0051,MITRE ATT&CK,network,41322
+52,Endpoint Telemetry 0052,Vendor A,dns,27428
+53,SIEM Alerts 0053,CISA,email,27715
+54,Network Logs 0054,Open Source,web,4073
+55,SIEM Alerts 0055,Vendor B,email,43288
+56,Threat Intel Feed 0056,Vendor B,threat_intel,7347
+57,Network Logs 0057,Internal SOC,network,16774
+58,Network Logs 0058,Vendor A,endpoint,46964
+59,Identity Access Logs 0059,Vendor B,email,36208
+60,Endpoint Telemetry 0060,Vendor A,vulnerability,3996
+61,Threat Intel Feed 0061,Open Source,web,41825
+62,Vulnerability Scan Results 0062,CISA,cloud,19528
+63,Web Proxy Logs 0063,Internal SOC,siem,21500
+64,Email Gateway Logs 0064,MITRE ATT&CK,web,11196
+65,Identity Access Logs 0065,Vendor A,cloud,45657
+66,DNS Query Logs 0066,Vendor B,endpoint,31583
+67,Network Logs 0067,Vendor A,threat_intel,4328
+68,Threat Intel Feed 0068,CISA,web,4579
+69,Web Proxy Logs 0069,Vendor B,dns,8012
+70,SIEM Alerts 0070,Vendor A,email,42042
+71,Email Gateway Logs 0071,Partner Org,endpoint,47456
+72,SIEM Alerts 0072,Vendor A,endpoint,11701
+73,Endpoint Telemetry 0073,Partner Org,dns,31276
+74,Network Logs 0074,CISA,identity,12076
+75,Email Gateway Logs 0075,Vendor B,dns,1506
+76,Endpoint Telemetry 0076,MITRE ATT&CK,cloud,45716
+77,Email Gateway Logs 0077,MITRE ATT&CK,siem,18476
+78,Email Gateway Logs 0078,CISA,vulnerability,47193
+79,Web Proxy Logs 0079,Partner Org,dns,19851
+80,Cloud Audit Trails 0080,Vendor A,vulnerability,37347
+81,SIEM Alerts 0081,MITRE ATT&CK,vulnerability,20377
+82,Threat Intel Feed 0082,Open Source,web,13342
+83,Cloud Audit Trails 0083,Vendor B,web,23091
+84,DNS Query Logs 0084,CISA,vulnerability,46326
+85,Threat Intel Feed 0085,CISA,cloud,44572
+86,Web Proxy Logs 0086,Partner Org,network,39008
+87,DNS Query Logs 0087,Open Source,endpoint,26610
+88,Web Proxy Logs 0088,Open Source,threat_intel,45819
+89,Threat Intel Feed 0089,CISA,web,27281
+90,Network Logs 0090,CISA,endpoint,31320
+91,Endpoint Telemetry 0091,Vendor A,siem,3769
+92,DNS Query Logs 0092,Vendor B,endpoint,27952
+93,Email Gateway Logs 0093,Vendor B,email,3080
+94,Network Logs 0094,Vendor B,threat_intel,8539
+95,Threat Intel Feed 0095,CISA,threat_intel,41002
+96,DNS Query Logs 0096,Partner Org,dns,49568
+97,Endpoint Telemetry 0097,Vendor A,identity,29420
+98,Threat Intel Feed 0098,MITRE ATT&CK,endpoint,3067
+99,DNS Query Logs 0099,Vendor B,network,11995
+100,Endpoint Telemetry 0100,Partner Org,cloud,19355
+101,Threat Intel Feed 0101,Partner Org,web,35907
+102,Cloud Audit Trails 0102,CISA,identity,27401
+103,Cloud Audit Trails 0103,Internal SOC,siem,42916
+104,Network Logs 0104,MITRE ATT&CK,email,47590
+105,SIEM Alerts 0105,Vendor A,siem,19872
+106,Cloud Audit Trails 0106,Internal SOC,endpoint,1758
+107,Identity Access Logs 0107,MITRE ATT&CK,email,25880
+108,Email Gateway Logs 0108,Vendor A,cloud,47587
+109,Endpoint Telemetry 0109,Partner Org,siem,45912
+110,Cloud Audit Trails 0110,MITRE ATT&CK,network,39508
+111,DNS Query Logs 0111,CISA,identity,13651
+112,Cloud Audit Trails 0112,Open Source,dns,45450
+113,SIEM Alerts 0113,Internal SOC,threat_intel,19352
+114,Threat Intel Feed 0114,Internal SOC,dns,31250
+115,Threat Intel Feed 0115,CISA,vulnerability,44436
+116,Cloud Audit Trails 0116,Internal SOC,email,38428
+117,Cloud Audit Trails 0117,MITRE ATT&CK,cloud,32178
+118,Web Proxy Logs 0118,Vendor B,web,36965
+119,Network Logs 0119,Vendor B,endpoint,3754
+120,Network Logs 0120,Vendor A,vulnerability,15604
+121,Identity Access Logs 0121,Vendor B,identity,16447
+122,Vulnerability Scan Results 0122,Vendor A,identity,16174
+123,Web Proxy Logs 0123,MITRE ATT&CK,siem,8319
+124,Network Logs 0124,MITRE ATT&CK,endpoint,4906
+125,Web Proxy Logs 0125,Partner Org,identity,11396
+126,Endpoint Telemetry 0126,Open Source,email,22761
+127,SIEM Alerts 0127,Vendor A,identity,29940
+128,Cloud Audit Trails 0128,Partner Org,threat_intel,38432
+129,Email Gateway Logs 0129,Vendor B,network,5246
+130,SIEM Alerts 0130,Internal SOC,dns,31446
+131,Vulnerability Scan Results 0131,Internal SOC,vulnerability,39813
+132,Threat Intel Feed 0132,CISA,email,4389
+133,Vulnerability Scan Results 0133,Internal SOC,endpoint,41675
+134,Endpoint Telemetry 0134,Vendor A,vulnerability,24618
+135,Email Gateway Logs 0135,Vendor B,endpoint,16190
+136,Cloud Audit Trails 0136,MITRE ATT&CK,network,30372
+137,Email Gateway Logs 0137,Internal SOC,identity,9507
+138,Network Logs 0138,Vendor B,siem,21327
+139,Identity Access Logs 0139,MITRE ATT&CK,cloud,12233
+140,DNS Query Logs 0140,Vendor B,threat_intel,26281
+141,DNS Query Logs 0141,Internal SOC,dns,45772
+142,Network Logs 0142,Partner Org,cloud,15654
+143,Vulnerability Scan Results 0143,Internal SOC,web,5898
+144,Threat Intel Feed 0144,Internal SOC,email,16963
+145,Network Logs 0145,Vendor B,endpoint,16015
+146,Endpoint Telemetry 0146,Vendor A,web,48687
+147,Threat Intel Feed 0147,MITRE ATT&CK,email,33034
+148,SIEM Alerts 0148,CISA,dns,49679
+149,Cloud Audit Trails 0149,Internal SOC,web,34431
+150,Network Logs 0150,MITRE ATT&CK,endpoint,48105
+151,DNS Query Logs 0151,Vendor B,identity,2314
+152,Web Proxy Logs 0152,Partner Org,vulnerability,17032
+153,Email Gateway Logs 0153,Internal SOC,vulnerability,43797
+154,Web Proxy Logs 0154,Vendor B,threat_intel,13232
+155,Vulnerability Scan Results 0155,Vendor B,vulnerability,39931
+156,SIEM Alerts 0156,CISA,siem,16713
+157,Identity Access Logs 0157,Vendor B,dns,8625
+158,SIEM Alerts 0158,Internal SOC,web,33264
+159,SIEM Alerts 0159,MITRE ATT&CK,threat_intel,11005
+160,Cloud Audit Trails 0160,Vendor B,email,38285
+161,SIEM Alerts 0161,Partner Org,network,9758
+162,Vulnerability Scan Results 0162,MITRE ATT&CK,siem,39534
+163,Threat Intel Feed 0163,Partner Org,identity,28092
+164,Vulnerability Scan Results 0164,Internal SOC,vulnerability,4493
+165,SIEM Alerts 0165,CISA,dns,47611
+166,Email Gateway Logs 0166,Vendor B,cloud,19957
+167,Web Proxy Logs 0167,Vendor A,dns,23050
+168,Cloud Audit Trails 0168,Partner Org,siem,20975
+169,Email Gateway Logs 0169,Partner Org,cloud,10133
+170,Cloud Audit Trails 0170,Vendor A,siem,43194
+171,Network Logs 0171,Partner Org,siem,7320
+172,Vulnerability Scan Results 0172,CISA,endpoint,20637
+173,Vulnerability Scan Results 0173,Internal SOC,dns,2958
+174,Network Logs 0174,Vendor B,network,49200
+175,SIEM Alerts 0175,Open Source,cloud,47810
+176,Endpoint Telemetry 0176,Vendor A,siem,22602
+177,Vulnerability Scan Results 0177,Internal SOC,siem,14395
+178,Email Gateway Logs 0178,CISA,vulnerability,25297
+179,Cloud Audit Trails 0179,MITRE ATT&CK,endpoint,14360
+180,Email Gateway Logs 0180,Open Source,web,42835
+181,SIEM Alerts 0181,Open Source,cloud,9979
+182,Cloud Audit Trails 0182,Open Source,endpoint,28747
+183,Identity Access Logs 0183,Vendor B,vulnerability,26416
+184,SIEM Alerts 0184,Internal SOC,dns,25071
+185,Vulnerability Scan Results 0185,Vendor A,siem,24380
+186,Network Logs 0186,Vendor B,email,37677
+187,Endpoint Telemetry 0187,Partner Org,web,5490
+188,DNS Query Logs 0188,MITRE ATT&CK,identity,13345
+189,Network Logs 0189,Partner Org,threat_intel,1714
+190,Threat Intel Feed 0190,Vendor A,identity,27623
+191,Cloud Audit Trails 0191,Partner Org,network,36357
+192,Endpoint Telemetry 0192,Vendor B,dns,10281
+193,Email Gateway Logs 0193,MITRE ATT&CK,identity,37297
+194,Email Gateway Logs 0194,Vendor A,web,45084
+195,Endpoint Telemetry 0195,CISA,threat_intel,2558
+196,Web Proxy Logs 0196,MITRE ATT&CK,threat_intel,10859
+197,Vulnerability Scan Results 0197,Vendor A,network,290
+198,Threat Intel Feed 0198,MITRE ATT&CK,dns,11052
+199,Threat Intel Feed 0199,Vendor B,email,33364
+200,Threat Intel Feed 0200,Partner Org,network,7968
+201,Web Proxy Logs 0201,Partner Org,web,11229
+202,Vulnerability Scan Results 0202,CISA,vulnerability,38096
+203,Vulnerability Scan Results 0203,Vendor A,email,2610
+204,Threat Intel Feed 0204,Vendor B,network,662
+205,Cloud Audit Trails 0205,Vendor A,endpoint,49994
+206,SIEM Alerts 0206,Vendor A,identity,18600
+207,Cloud Audit Trails 0207,Partner Org,email,19480
+208,DNS Query Logs 0208,Vendor A,web,25076
+209,Threat Intel Feed 0209,Internal SOC,identity,27846
+210,Vulnerability Scan Results 0210,Vendor B,network,46154
+211,Cloud Audit Trails 0211,MITRE ATT&CK,identity,25429
+212,Threat Intel Feed 0212,Partner Org,siem,28962
+213,Endpoint Telemetry 0213,Partner Org,web,48906
+214,Web Proxy Logs 0214,MITRE ATT&CK,network,32416
+215,Identity Access Logs 0215,MITRE ATT&CK,email,31731
+216,Email Gateway Logs 0216,Partner Org,threat_intel,29840
+217,Email Gateway Logs 0217,Partner Org,threat_intel,27187
+218,DNS Query Logs 0218,Internal SOC,cloud,33671
+219,Endpoint Telemetry 0219,Partner Org,endpoint,10129
+220,Cloud Audit Trails 0220,Vendor A,endpoint,19123
+221,Endpoint Telemetry 0221,Open Source,network,43198
+222,Email Gateway Logs 0222,Vendor A,endpoint,33130
+223,Threat Intel Feed 0223,MITRE ATT&CK,email,417
+224,Email Gateway Logs 0224,Internal SOC,dns,23847
+225,Endpoint Telemetry 0225,CISA,identity,30093
+226,Email Gateway Logs 0226,Open Source,identity,20107
+227,Threat Intel Feed 0227,MITRE ATT&CK,web,15203
+228,Identity Access Logs 0228,CISA,dns,36413
+229,Endpoint Telemetry 0229,Vendor A,web,6581
+230,Endpoint Telemetry 0230,Vendor A,email,9654
+231,Web Proxy Logs 0231,Internal SOC,network,12965
+232,Threat Intel Feed 0232,Open Source,email,800
+233,SIEM Alerts 0233,CISA,identity,808
+234,Web Proxy Logs 0234,Vendor B,identity,37291
+235,Threat Intel Feed 0235,Vendor B,siem,12362
+236,Endpoint Telemetry 0236,Partner Org,vulnerability,8915
+237,Threat Intel Feed 0237,MITRE ATT&CK,vulnerability,18882
+238,Endpoint Telemetry 0238,Partner Org,threat_intel,11847
+239,Vulnerability Scan Results 0239,Vendor A,identity,2463
+240,Endpoint Telemetry 0240,Partner Org,siem,29694
+241,Threat Intel Feed 0241,Open Source,network,23673
+242,Threat Intel Feed 0242,Vendor A,cloud,26459
+243,Network Logs 0243,Internal SOC,web,34196
+244,DNS Query Logs 0244,Partner Org,email,18726
+245,Vulnerability Scan Results 0245,Vendor B,vulnerability,36821
+246,Email Gateway Logs 0246,Open Source,cloud,3746
+247,Threat Intel Feed 0247,Open Source,threat_intel,28952
+248,Endpoint Telemetry 0248,Internal SOC,cloud,36389
+249,Identity Access Logs 0249,Vendor A,identity,46321
+250,Identity Access Logs 0250,Vendor A,siem,19555
+251,Web Proxy Logs 0251,CISA,cloud,47593
+252,Cloud Audit Trails 0252,CISA,threat_intel,16867
+253,Email Gateway Logs 0253,Partner Org,web,13389
+254,SIEM Alerts 0254,Partner Org,web,36352
+255,Endpoint Telemetry 0255,Partner Org,email,3052
+256,DNS Query Logs 0256,Open Source,endpoint,1084
+257,Network Logs 0257,Partner Org,dns,46974
+258,Vulnerability Scan Results 0258,Open Source,identity,14853
+259,SIEM Alerts 0259,Open Source,endpoint,43204
+260,Network Logs 0260,MITRE ATT&CK,endpoint,24085
+261,Identity Access Logs 0261,Vendor A,identity,18144
+262,Email Gateway Logs 0262,Internal SOC,web,41080
+263,Cloud Audit Trails 0263,Vendor A,dns,7933
+264,Email Gateway Logs 0264,Vendor B,identity,3655
+265,Threat Intel Feed 0265,Vendor A,web,6489
+266,Network Logs 0266,Open Source,network,30397
+267,Email Gateway Logs 0267,Partner Org,vulnerability,14555
+268,Web Proxy Logs 0268,Open Source,vulnerability,33652
+269,Vulnerability Scan Results 0269,Vendor B,web,242
+270,Web Proxy Logs 0270,Partner Org,endpoint,40147
+271,Threat Intel Feed 0271,MITRE ATT&CK,endpoint,23296
+272,Vulnerability Scan Results 0272,CISA,vulnerability,23763
+273,Vulnerability Scan Results 0273,Internal SOC,threat_intel,42611
+274,Network Logs 0274,CISA,cloud,26002
+275,Web Proxy Logs 0275,MITRE ATT&CK,endpoint,10132
+276,Web Proxy Logs 0276,MITRE ATT&CK,web,40089
+277,Web Proxy Logs 0277,Partner Org,identity,17488
+278,SIEM Alerts 0278,Open Source,identity,27464
+279,Network Logs 0279,Internal SOC,cloud,5949
+280,Email Gateway Logs 0280,Vendor A,identity,21274
+281,Vulnerability Scan Results 0281,Open Source,identity,47207
+282,Threat Intel Feed 0282,MITRE ATT&CK,endpoint,12145
+283,Endpoint Telemetry 0283,Vendor B,endpoint,7215
+284,DNS Query Logs 0284,Vendor B,cloud,15845
+285,Endpoint Telemetry 0285,Open Source,siem,41795
+286,Email Gateway Logs 0286,CISA,threat_intel,48874
+287,DNS Query Logs 0287,CISA,identity,13240
+288,DNS Query Logs 0288,Internal SOC,dns,14829
+289,Web Proxy Logs 0289,Open Source,network,34906
+290,DNS Query Logs 0290,Vendor A,siem,1590
+291,DNS Query Logs 0291,MITRE ATT&CK,cloud,1167
+292,Email Gateway Logs 0292,MITRE ATT&CK,threat_intel,4554
+293,Identity Access Logs 0293,CISA,endpoint,1083
+294,Network Logs 0294,Open Source,dns,36012
+295,Vulnerability Scan Results 0295,Internal SOC,identity,22908
+296,Email Gateway Logs 0296,Open Source,email,16726
+297,Cloud Audit Trails 0297,Partner Org,web,5183
+298,SIEM Alerts 0298,Partner Org,endpoint,22865
+299,DNS Query Logs 0299,Partner Org,web,26784
+300,Web Proxy Logs 0300,Open Source,endpoint,1220
+301,Identity Access Logs 0301,CISA,dns,778
+302,Endpoint Telemetry 0302,CISA,identity,22038
+303,Web Proxy Logs 0303,Vendor A,dns,44803
+304,Web Proxy Logs 0304,Vendor A,endpoint,20602
+305,Network Logs 0305,MITRE ATT&CK,vulnerability,22638
+306,Threat Intel Feed 0306,Vendor A,cloud,42517
+307,Cloud Audit Trails 0307,Vendor A,vulnerability,22687
+308,Threat Intel Feed 0308,Internal SOC,dns,5796
+309,Threat Intel Feed 0309,Vendor B,web,17200
+310,Vulnerability Scan Results 0310,Partner Org,email,5133
+311,Endpoint Telemetry 0311,CISA,identity,36338
+312,Web Proxy Logs 0312,Partner Org,web,44290
+313,Network Logs 0313,Partner Org,email,33167
+314,Email Gateway Logs 0314,Open Source,endpoint,47251
+315,Identity Access Logs 0315,Internal SOC,siem,6442
+316,Endpoint Telemetry 0316,Internal SOC,cloud,35157
+317,Network Logs 0317,Vendor A,email,30154
+318,SIEM Alerts 0318,Partner Org,vulnerability,24892
+319,Vulnerability Scan Results 0319,Partner Org,web,9981
+320,Network Logs 0320,Internal SOC,vulnerability,41860
+321,Endpoint Telemetry 0321,Vendor B,dns,43444
+322,SIEM Alerts 0322,Vendor A,threat_intel,26980
+323,Network Logs 0323,Internal SOC,threat_intel,37296
+324,Cloud Audit Trails 0324,Vendor A,dns,23612
+325,Network Logs 0325,Vendor A,vulnerability,19208
+326,Web Proxy Logs 0326,Internal SOC,endpoint,14403
+327,Web Proxy Logs 0327,Open Source,identity,48759
+328,Network Logs 0328,Vendor B,siem,41310
+329,Network Logs 0329,Vendor A,cloud,14445
+330,Email Gateway Logs 0330,MITRE ATT&CK,threat_intel,16506
+331,Identity Access Logs 0331,Partner Org,network,48949
+332,DNS Query Logs 0332,Vendor A,web,6841
+333,Identity Access Logs 0333,Vendor B,network,6876
+334,Vulnerability Scan Results 0334,Partner Org,cloud,46610
+335,Threat Intel Feed 0335,Vendor B,threat_intel,1291
+336,Email Gateway Logs 0336,Internal SOC,endpoint,49397
+337,Endpoint Telemetry 0337,Open Source,endpoint,43572
+338,Endpoint Telemetry 0338,Open Source,email,15360
+339,Network Logs 0339,CISA,email,11412
+340,Vulnerability Scan Results 0340,CISA,cloud,23529
+341,Cloud Audit Trails 0341,Open Source,threat_intel,36141
+342,Email Gateway Logs 0342,Vendor A,network,17202
+343,Identity Access Logs 0343,Partner Org,vulnerability,23161
+344,Web Proxy Logs 0344,MITRE ATT&CK,vulnerability,24334
+345,Vulnerability Scan Results 0345,MITRE ATT&CK,network,22024
+346,Cloud Audit Trails 0346,Vendor B,siem,11722
+347,Email Gateway Logs 0347,Internal SOC,email,3554
+348,SIEM Alerts 0348,CISA,dns,21284
+349,Network Logs 0349,Vendor A,identity,16893
+350,Cloud Audit Trails 0350,Open Source,dns,46342
+351,Web Proxy Logs 0351,MITRE ATT&CK,siem,28070
+352,Web Proxy Logs 0352,Internal SOC,threat_intel,21458
+353,Cloud Audit Trails 0353,Vendor B,dns,41911
+354,Email Gateway Logs 0354,Partner Org,vulnerability,10485
+355,Threat Intel Feed 0355,CISA,email,45060
+356,DNS Query Logs 0356,Internal SOC,cloud,13299
+357,Threat Intel Feed 0357,MITRE ATT&CK,dns,43935
+358,Endpoint Telemetry 0358,Vendor B,dns,2901
+359,DNS Query Logs 0359,Open Source,identity,324
+360,Web Proxy Logs 0360,CISA,siem,4927
+361,Email Gateway Logs 0361,Internal SOC,dns,21329
+362,Email Gateway Logs 0362,Vendor B,network,24442
+363,DNS Query Logs 0363,Internal SOC,dns,11817
+364,DNS Query Logs 0364,Open Source,web,41521
+365,Email Gateway Logs 0365,Internal SOC,email,48388
+366,SIEM Alerts 0366,Vendor B,cloud,16192
+367,Network Logs 0367,Internal SOC,web,4775
+368,Cloud Audit Trails 0368,Internal SOC,network,19144
+369,SIEM Alerts 0369,Vendor A,threat_intel,16815
+370,Email Gateway Logs 0370,Open Source,dns,26333
+371,Endpoint Telemetry 0371,Vendor A,endpoint,49085
+372,Endpoint Telemetry 0372,CISA,threat_intel,27001
+373,Endpoint Telemetry 0373,Internal SOC,dns,20090
+374,Network Logs 0374,Partner Org,dns,20919
+375,Email Gateway Logs 0375,Open Source,dns,591
+376,Identity Access Logs 0376,Internal SOC,vulnerability,21512
+377,Endpoint Telemetry 0377,MITRE ATT&CK,dns,943
+378,DNS Query Logs 0378,Open Source,identity,30041
+379,Threat Intel Feed 0379,Vendor B,cloud,25970
+380,Vulnerability Scan Results 0380,MITRE ATT&CK,siem,14665
+381,Threat Intel Feed 0381,CISA,endpoint,2324
+382,Email Gateway Logs 0382,Internal SOC,cloud,36129
+383,Web Proxy Logs 0383,Vendor B,identity,8087
+384,SIEM Alerts 0384,Partner Org,identity,14071
+385,Identity Access Logs 0385,CISA,endpoint,42556
+386,Email Gateway Logs 0386,Vendor A,dns,9809
+387,Vulnerability Scan Results 0387,CISA,email,37281
+388,Network Logs 0388,Vendor B,threat_intel,42768
+389,Network Logs 0389,Vendor B,threat_intel,17760
+390,Threat Intel Feed 0390,Partner Org,endpoint,7841
+391,Vulnerability Scan Results 0391,Internal SOC,web,16080
+392,Identity Access Logs 0392,Vendor A,vulnerability,975
+393,Network Logs 0393,Vendor B,email,6094
+394,Identity Access Logs 0394,Partner Org,vulnerability,38355
+395,Email Gateway Logs 0395,Partner Org,network,779
+396,Network Logs 0396,Internal SOC,network,24982
+397,Web Proxy Logs 0397,Vendor B,endpoint,24990
+398,Vulnerability Scan Results 0398,Partner Org,network,22170
+399,Cloud Audit Trails 0399,Internal SOC,web,12141
+400,Email Gateway Logs 0400,Internal SOC,email,32859
+401,Endpoint Telemetry 0401,Partner Org,identity,49652
+402,Threat Intel Feed 0402,CISA,email,7069
+403,Vulnerability Scan Results 0403,Open Source,network,45196
+404,Vulnerability Scan Results 0404,Partner Org,web,14392
+405,DNS Query Logs 0405,CISA,identity,18084
+406,SIEM Alerts 0406,CISA,endpoint,31289
+407,DNS Query Logs 0407,CISA,vulnerability,10902
+408,Web Proxy Logs 0408,Internal SOC,email,14166
+409,Endpoint Telemetry 0409,CISA,web,49405
+410,Threat Intel Feed 0410,Vendor B,cloud,26397
+411,Network Logs 0411,Vendor A,web,24763
+412,Email Gateway Logs 0412,Internal SOC,network,44103
+413,Network Logs 0413,Open Source,vulnerability,44622
+414,Identity Access Logs 0414,Partner Org,identity,45241
+415,Cloud Audit Trails 0415,CISA,threat_intel,47017
+416,SIEM Alerts 0416,MITRE ATT&CK,vulnerability,12263
+417,Threat Intel Feed 0417,Internal SOC,dns,18205
+418,Cloud Audit Trails 0418,CISA,cloud,11786
+419,Network Logs 0419,Vendor A,endpoint,12172
+420,SIEM Alerts 0420,MITRE ATT&CK,dns,39268
+421,DNS Query Logs 0421,MITRE ATT&CK,network,46348
+422,Endpoint Telemetry 0422,CISA,email,5852
+423,Email Gateway Logs 0423,Open Source,endpoint,34259
+424,SIEM Alerts 0424,MITRE ATT&CK,dns,40199
+425,DNS Query Logs 0425,MITRE ATT&CK,web,18541
+426,Identity Access Logs 0426,Vendor A,network,5468
+427,Vulnerability Scan Results 0427,Vendor B,vulnerability,14642
+428,Threat Intel Feed 0428,Open Source,vulnerability,4228
+429,SIEM Alerts 0429,MITRE ATT&CK,threat_intel,34688
+430,Endpoint Telemetry 0430,Internal SOC,dns,15349
+431,Network Logs 0431,Vendor B,network,45888
+432,Identity Access Logs 0432,Vendor B,endpoint,26237
+433,Endpoint Telemetry 0433,CISA,email,35054
+434,Endpoint Telemetry 0434,MITRE ATT&CK,endpoint,26243
+435,SIEM Alerts 0435,CISA,network,4766
+436,SIEM Alerts 0436,Vendor B,threat_intel,38306
+437,Web Proxy Logs 0437,CISA,identity,48188
+438,Network Logs 0438,Open Source,identity,21301
+439,DNS Query Logs 0439,Open Source,network,36699
+440,Cloud Audit Trails 0440,CISA,endpoint,1316
+441,Identity Access Logs 0441,Vendor B,dns,5442
+442,Threat Intel Feed 0442,Vendor A,dns,49209
+443,DNS Query Logs 0443,Partner Org,web,7829
+444,Endpoint Telemetry 0444,Open Source,identity,42155
+445,Cloud Audit Trails 0445,CISA,cloud,70
+446,DNS Query Logs 0446,Partner Org,cloud,8657
+447,Web Proxy Logs 0447,Vendor A,dns,41526
+448,Endpoint Telemetry 0448,Open Source,network,48794
+449,SIEM Alerts 0449,CISA,web,18696
+450,Email Gateway Logs 0450,Vendor A,dns,22395
+451,Vulnerability Scan Results 0451,Partner Org,web,2799
+452,Cloud Audit Trails 0452,Vendor B,endpoint,10367
+453,Endpoint Telemetry 0453,Internal SOC,cloud,8748
+454,SIEM Alerts 0454,Internal SOC,network,18142
+455,Identity Access Logs 0455,CISA,threat_intel,37237
+456,Threat Intel Feed 0456,Vendor A,siem,2018
+457,SIEM Alerts 0457,MITRE ATT&CK,dns,4094
+458,SIEM Alerts 0458,CISA,siem,13315
+459,Threat Intel Feed 0459,Open Source,threat_intel,15221
+460,DNS Query Logs 0460,Open Source,network,27842
+461,Email Gateway Logs 0461,Vendor B,cloud,12958
+462,Threat Intel Feed 0462,Partner Org,web,6329
+463,Endpoint Telemetry 0463,MITRE ATT&CK,identity,29641
+464,DNS Query Logs 0464,CISA,email,14761
+465,Endpoint Telemetry 0465,Vendor B,endpoint,33637
+466,Vulnerability Scan Results 0466,Vendor A,endpoint,48590
+467,DNS Query Logs 0467,MITRE ATT&CK,web,48964
+468,Web Proxy Logs 0468,CISA,web,7454
+469,Web Proxy Logs 0469,Internal SOC,email,47766
+470,Threat Intel Feed 0470,Vendor B,threat_intel,7144
+471,Vulnerability Scan Results 0471,Open Source,vulnerability,26878
+472,Web Proxy Logs 0472,Partner Org,web,24233
+473,Cloud Audit Trails 0473,Internal SOC,siem,14689
+474,Web Proxy Logs 0474,Open Source,siem,45033
+475,Endpoint Telemetry 0475,Partner Org,identity,46637
+476,Email Gateway Logs 0476,MITRE ATT&CK,dns,25017
+477,Identity Access Logs 0477,Internal SOC,endpoint,32828
+478,SIEM Alerts 0478,Internal SOC,dns,33986
+479,Threat Intel Feed 0479,Vendor B,dns,15943
+480,SIEM Alerts 0480,Vendor A,network,27562
+481,Endpoint Telemetry 0481,MITRE ATT&CK,dns,46059
+482,Cloud Audit Trails 0482,Vendor B,threat_intel,12282
+483,Vulnerability Scan Results 0483,Internal SOC,threat_intel,24247
+484,Web Proxy Logs 0484,Internal SOC,network,5593
+485,Email Gateway Logs 0485,Open Source,threat_intel,3614
+486,Email Gateway Logs 0486,Partner Org,email,27876
+487,Network Logs 0487,CISA,siem,1483
+488,DNS Query Logs 0488,CISA,dns,20437
+489,Endpoint Telemetry 0489,Open Source,vulnerability,39862
+490,SIEM Alerts 0490,Vendor B,cloud,18223
+491,Cloud Audit Trails 0491,Vendor B,endpoint,1174
+492,DNS Query Logs 0492,CISA,cloud,29523
+493,Cloud Audit Trails 0493,Partner Org,siem,8496
+494,SIEM Alerts 0494,Open Source,network,44576
+495,Threat Intel Feed 0495,CISA,network,42279
+496,Network Logs 0496,Vendor B,identity,14864
+497,DNS Query Logs 0497,Vendor A,identity,15513
+498,Endpoint Telemetry 0498,CISA,cloud,25146
+499,Web Proxy Logs 0499,CISA,cloud,20611
+500,Threat Intel Feed 0500,Open Source,siem,35007
+501,Threat Intel Feed 0501,MITRE ATT&CK,threat_intel,22449
+502,Email Gateway Logs 0502,Vendor A,dns,191
+503,Web Proxy Logs 0503,Open Source,cloud,5622
+504,Email Gateway Logs 0504,Vendor B,email,25310
+505,Vulnerability Scan Results 0505,Vendor B,network,42521
+506,Endpoint Telemetry 0506,Partner Org,identity,48696
+507,Web Proxy Logs 0507,Internal SOC,network,3349
+508,Identity Access Logs 0508,Partner Org,endpoint,48932
+509,Identity Access Logs 0509,MITRE ATT&CK,cloud,15932
+510,Identity Access Logs 0510,Vendor B,dns,37487
+511,Endpoint Telemetry 0511,Internal SOC,email,42492
+512,Identity Access Logs 0512,Vendor A,dns,12071
+513,Vulnerability Scan Results 0513,Vendor A,web,24335
+514,Web Proxy Logs 0514,CISA,identity,15420
+515,Threat Intel Feed 0515,Partner Org,identity,19152
+516,SIEM Alerts 0516,MITRE ATT&CK,web,7950
+517,Threat Intel Feed 0517,Internal SOC,email,28054
+518,Vulnerability Scan Results 0518,Partner Org,email,28842
+519,Cloud Audit Trails 0519,Vendor B,web,30253
+520,Vulnerability Scan Results 0520,Vendor A,identity,19326
+521,Network Logs 0521,Internal SOC,threat_intel,34459
+522,Endpoint Telemetry 0522,Open Source,vulnerability,32283
+523,Identity Access Logs 0523,Open Source,siem,10286
+524,Threat Intel Feed 0524,Partner Org,vulnerability,18250
+525,SIEM Alerts 0525,MITRE ATT&CK,vulnerability,38802
+526,Email Gateway Logs 0526,Vendor B,siem,12024
+527,Identity Access Logs 0527,Open Source,network,25932
+528,Network Logs 0528,Vendor B,threat_intel,43077
+529,Identity Access Logs 0529,MITRE ATT&CK,vulnerability,809
+530,Network Logs 0530,CISA,email,40335
+531,Vulnerability Scan Results 0531,Open Source,endpoint,1648
+532,Network Logs 0532,Open Source,identity,41553
+533,SIEM Alerts 0533,MITRE ATT&CK,dns,42169
+534,Vulnerability Scan Results 0534,Internal SOC,threat_intel,34250
+535,SIEM Alerts 0535,Partner Org,network,44045
+536,SIEM Alerts 0536,Internal SOC,threat_intel,16453
+537,Identity Access Logs 0537,Vendor A,dns,9155
+538,DNS Query Logs 0538,Vendor B,cloud,20417
+539,DNS Query Logs 0539,Internal SOC,web,22211
+540,Cloud Audit Trails 0540,MITRE ATT&CK,vulnerability,18479
+541,Web Proxy Logs 0541,Open Source,vulnerability,5365
+542,Identity Access Logs 0542,Vendor B,dns,32735
+543,Endpoint Telemetry 0543,Vendor B,threat_intel,40585
+544,SIEM Alerts 0544,Open Source,cloud,44920
+545,SIEM Alerts 0545,MITRE ATT&CK,email,41380
+546,Cloud Audit Trails 0546,Vendor B,cloud,41681
+547,Identity Access Logs 0547,Vendor B,network,13033
+548,SIEM Alerts 0548,MITRE ATT&CK,identity,5357
+549,Threat Intel Feed 0549,Open Source,email,33932
+550,Endpoint Telemetry 0550,MITRE ATT&CK,identity,47092
+551,Vulnerability Scan Results 0551,Partner Org,threat_intel,4222
+552,Threat Intel Feed 0552,Internal SOC,identity,41780
+553,SIEM Alerts 0553,Vendor A,cloud,30201
+554,Identity Access Logs 0554,Partner Org,siem,34739
+555,Threat Intel Feed 0555,Open Source,endpoint,39667
+556,Endpoint Telemetry 0556,Vendor B,web,6680
+557,Network Logs 0557,Vendor A,dns,25696
+558,Network Logs 0558,CISA,cloud,14376
+559,DNS Query Logs 0559,CISA,web,48433
+560,Cloud Audit Trails 0560,Internal SOC,network,4600
+561,Email Gateway Logs 0561,Partner Org,email,23555
+562,Web Proxy Logs 0562,Vendor A,endpoint,34828
+563,Identity Access Logs 0563,Vendor B,identity,41171
+564,Identity Access Logs 0564,MITRE ATT&CK,identity,19366
+565,SIEM Alerts 0565,Partner Org,siem,38405
+566,Threat Intel Feed 0566,MITRE ATT&CK,endpoint,13831
+567,Vulnerability Scan Results 0567,CISA,email,31984
+568,Web Proxy Logs 0568,Partner Org,identity,4364
+569,SIEM Alerts 0569,Vendor B,vulnerability,40216
+570,DNS Query Logs 0570,Vendor A,network,3864
+571,Web Proxy Logs 0571,Partner Org,network,11425
+572,Endpoint Telemetry 0572,Partner Org,endpoint,40365
+573,Threat Intel Feed 0573,Vendor A,network,16297
+574,Identity Access Logs 0574,Partner Org,web,43375
+575,Threat Intel Feed 0575,MITRE ATT&CK,network,15670
+576,DNS Query Logs 0576,Vendor A,email,30627
+577,Web Proxy Logs 0577,Open Source,endpoint,48782
+578,Email Gateway Logs 0578,MITRE ATT&CK,siem,733
+579,Vulnerability Scan Results 0579,Internal SOC,identity,45645
+580,SIEM Alerts 0580,MITRE ATT&CK,network,44608
+581,Cloud Audit Trails 0581,Partner Org,web,43581
+582,Identity Access Logs 0582,Vendor A,email,31142
+583,Identity Access Logs 0583,Vendor B,cloud,42141
+584,Web Proxy Logs 0584,MITRE ATT&CK,web,41316
+585,Endpoint Telemetry 0585,Internal SOC,web,26537
+586,SIEM Alerts 0586,MITRE ATT&CK,vulnerability,33140
+587,Email Gateway Logs 0587,Open Source,siem,30233
+588,Identity Access Logs 0588,Partner Org,cloud,46909
+589,Endpoint Telemetry 0589,CISA,vulnerability,14150
+590,SIEM Alerts 0590,Vendor B,network,11668
+591,Endpoint Telemetry 0591,CISA,endpoint,6360
+592,Vulnerability Scan Results 0592,Partner Org,siem,19030
+593,Network Logs 0593,Vendor A,identity,42582
+594,Email Gateway Logs 0594,CISA,cloud,111
+595,Email Gateway Logs 0595,Vendor A,network,25527
+596,Network Logs 0596,CISA,network,21512
+597,Cloud Audit Trails 0597,Vendor A,cloud,45326
+598,Threat Intel Feed 0598,MITRE ATT&CK,dns,13113
+599,Identity Access Logs 0599,CISA,vulnerability,13574
+600,SIEM Alerts 0600,MITRE ATT&CK,email,48426
+601,SIEM Alerts 0601,Open Source,network,36402
+602,Network Logs 0602,CISA,identity,47004
+603,Cloud Audit Trails 0603,Open Source,network,26908
+604,SIEM Alerts 0604,Open Source,cloud,15631
+605,SIEM Alerts 0605,MITRE ATT&CK,identity,42450
+606,Email Gateway Logs 0606,Open Source,network,21234
+607,Email Gateway Logs 0607,MITRE ATT&CK,threat_intel,30036
+608,DNS Query Logs 0608,Internal SOC,threat_intel,12439
+609,Threat Intel Feed 0609,CISA,vulnerability,1931
+610,Endpoint Telemetry 0610,CISA,siem,10528
+611,SIEM Alerts 0611,MITRE ATT&CK,web,7383
+612,Threat Intel Feed 0612,CISA,identity,13978
+613,Web Proxy Logs 0613,Partner Org,identity,28208
+614,Identity Access Logs 0614,Vendor A,email,40809
+615,Identity Access Logs 0615,Open Source,cloud,25707
+616,Identity Access Logs 0616,CISA,threat_intel,28155
+617,SIEM Alerts 0617,Partner Org,dns,28866
+618,Endpoint Telemetry 0618,MITRE ATT&CK,network,16416
+619,Cloud Audit Trails 0619,Vendor A,threat_intel,24230
+620,Cloud Audit Trails 0620,Open Source,network,3683
+621,Web Proxy Logs 0621,Internal SOC,threat_intel,26580
+622,DNS Query Logs 0622,Vendor B,email,18521
+623,Cloud Audit Trails 0623,CISA,email,36130
+624,Network Logs 0624,CISA,endpoint,19098
+625,DNS Query Logs 0625,Internal SOC,siem,14348
+626,Web Proxy Logs 0626,Vendor B,vulnerability,16673
+627,Network Logs 0627,Partner Org,dns,48544
+628,Email Gateway Logs 0628,Vendor A,email,2514
+629,DNS Query Logs 0629,MITRE ATT&CK,siem,34770
+630,Threat Intel Feed 0630,Internal SOC,endpoint,46802
+631,Threat Intel Feed 0631,Partner Org,endpoint,36053
+632,Threat Intel Feed 0632,Open Source,dns,48423
+633,Endpoint Telemetry 0633,Open Source,web,16388
+634,Vulnerability Scan Results 0634,CISA,identity,33607
+635,Threat Intel Feed 0635,Open Source,web,11826
+636,Email Gateway Logs 0636,Partner Org,identity,3140
+637,Network Logs 0637,Internal SOC,dns,28781
+638,Network Logs 0638,Vendor B,email,40137
+639,Network Logs 0639,Vendor A,email,40564
+640,Web Proxy Logs 0640,CISA,vulnerability,24949
+641,Web Proxy Logs 0641,Partner Org,siem,2195
+642,Identity Access Logs 0642,Partner Org,identity,32978
+643,Identity Access Logs 0643,Internal SOC,web,34299
+644,Identity Access Logs 0644,Partner Org,vulnerability,28451
+645,Identity Access Logs 0645,Internal SOC,web,22621
+646,Network Logs 0646,Open Source,dns,16106
+647,Threat Intel Feed 0647,CISA,vulnerability,9296
+648,Identity Access Logs 0648,Open Source,siem,1786
+649,DNS Query Logs 0649,MITRE ATT&CK,endpoint,9472
+650,Endpoint Telemetry 0650,Internal SOC,identity,22921
+651,Endpoint Telemetry 0651,CISA,web,16512
+652,Vulnerability Scan Results 0652,Vendor B,network,2492
+653,DNS Query Logs 0653,Vendor A,identity,15271
+654,Email Gateway Logs 0654,Internal SOC,identity,40917
+655,Email Gateway Logs 0655,Open Source,dns,510
+656,Web Proxy Logs 0656,MITRE ATT&CK,endpoint,42081
+657,Endpoint Telemetry 0657,MITRE ATT&CK,email,4685
+658,SIEM Alerts 0658,Vendor A,endpoint,17416
+659,Cloud Audit Trails 0659,Open Source,identity,46561
+660,Threat Intel Feed 0660,Internal SOC,web,35544
+661,DNS Query Logs 0661,Vendor A,siem,24367
+662,SIEM Alerts 0662,Internal SOC,vulnerability,33520
+663,Identity Access Logs 0663,Open Source,web,3507
+664,SIEM Alerts 0664,Partner Org,network,26826
+665,DNS Query Logs 0665,Vendor B,cloud,1523
+666,Identity Access Logs 0666,Internal SOC,threat_intel,16764
+667,SIEM Alerts 0667,Internal SOC,email,38713
+668,SIEM Alerts 0668,MITRE ATT&CK,endpoint,46138
+669,Email Gateway Logs 0669,Open Source,dns,23487
+670,Vulnerability Scan Results 0670,Partner Org,dns,24426
+671,Identity Access Logs 0671,Vendor A,endpoint,35338
+672,Identity Access Logs 0672,Open Source,endpoint,39731
+673,Vulnerability Scan Results 0673,CISA,dns,13246
+674,Vulnerability Scan Results 0674,Vendor B,threat_intel,41397
+675,SIEM Alerts 0675,CISA,web,21289
+676,Threat Intel Feed 0676,Partner Org,dns,40495
+677,Vulnerability Scan Results 0677,Vendor B,email,6256
+678,DNS Query Logs 0678,Partner Org,endpoint,45156
+679,Web Proxy Logs 0679,Internal SOC,dns,31673
+680,Endpoint Telemetry 0680,MITRE ATT&CK,cloud,724
+681,Email Gateway Logs 0681,CISA,identity,25903
+682,Threat Intel Feed 0682,Open Source,cloud,43868
+683,DNS Query Logs 0683,Vendor A,network,13107
+684,Cloud Audit Trails 0684,MITRE ATT&CK,dns,43688
+685,Identity Access Logs 0685,MITRE ATT&CK,threat_intel,40702
+686,Cloud Audit Trails 0686,Vendor A,network,23886
+687,Cloud Audit Trails 0687,Vendor B,vulnerability,14492
+688,Vulnerability Scan Results 0688,Vendor B,threat_intel,37004
+689,Cloud Audit Trails 0689,Open Source,dns,7484
+690,DNS Query Logs 0690,MITRE ATT&CK,threat_intel,28773
+691,Threat Intel Feed 0691,Internal SOC,threat_intel,33948
+692,Identity Access Logs 0692,Open Source,threat_intel,42564
+693,Endpoint Telemetry 0693,Vendor A,identity,37251
+694,SIEM Alerts 0694,Partner Org,dns,5240
+695,Identity Access Logs 0695,Vendor B,threat_intel,32327
+696,Network Logs 0696,Internal SOC,email,48019
+697,SIEM Alerts 0697,Vendor A,endpoint,17827
+698,Cloud Audit Trails 0698,MITRE ATT&CK,cloud,49853
+699,Web Proxy Logs 0699,Vendor B,web,17385
+700,Network Logs 0700,Vendor B,dns,4111
+701,Network Logs 0701,MITRE ATT&CK,dns,21552
+702,Cloud Audit Trails 0702,Internal SOC,cloud,33944
+703,Web Proxy Logs 0703,MITRE ATT&CK,cloud,27516
+704,Threat Intel Feed 0704,Partner Org,vulnerability,38430
+705,DNS Query Logs 0705,Partner Org,vulnerability,2986
+706,Identity Access Logs 0706,CISA,threat_intel,5192
+707,Web Proxy Logs 0707,Partner Org,threat_intel,9691
+708,Network Logs 0708,CISA,web,27301
+709,Identity Access Logs 0709,MITRE ATT&CK,vulnerability,39917
+710,Identity Access Logs 0710,Vendor B,identity,35339
+711,Network Logs 0711,Internal SOC,vulnerability,43370
+712,Threat Intel Feed 0712,Open Source,siem,26217
+713,Endpoint Telemetry 0713,Internal SOC,network,21863
+714,DNS Query Logs 0714,Vendor A,siem,35628
+715,Identity Access Logs 0715,Partner Org,identity,43798
+716,Network Logs 0716,Partner Org,threat_intel,33468
+717,DNS Query Logs 0717,CISA,dns,41112
+718,Endpoint Telemetry 0718,Vendor B,siem,5471
+719,Email Gateway Logs 0719,Internal SOC,vulnerability,21723
+720,Endpoint Telemetry 0720,Partner Org,identity,21582
+721,Email Gateway Logs 0721,Vendor A,vulnerability,18422
+722,Endpoint Telemetry 0722,MITRE ATT&CK,vulnerability,41687
+723,Vulnerability Scan Results 0723,Partner Org,siem,34105
+724,Cloud Audit Trails 0724,Vendor B,web,15282
+725,DNS Query Logs 0725,Partner Org,identity,24284
+726,Endpoint Telemetry 0726,Vendor A,siem,19349
+727,Threat Intel Feed 0727,Open Source,siem,41883
+728,Identity Access Logs 0728,CISA,endpoint,15332
+729,DNS Query Logs 0729,MITRE ATT&CK,web,5801
+730,Network Logs 0730,Vendor A,vulnerability,22469
+731,Web Proxy Logs 0731,MITRE ATT&CK,web,39834
+732,Threat Intel Feed 0732,Vendor B,cloud,31921
+733,SIEM Alerts 0733,CISA,network,31902
+734,Web Proxy Logs 0734,Vendor B,email,29173
+735,SIEM Alerts 0735,CISA,cloud,38879
+736,Email Gateway Logs 0736,Vendor B,network,42016
+737,SIEM Alerts 0737,Internal SOC,cloud,5147
+738,Endpoint Telemetry 0738,Vendor A,vulnerability,16089
+739,SIEM Alerts 0739,CISA,cloud,49205
+740,SIEM Alerts 0740,Vendor B,dns,16056
+741,Cloud Audit Trails 0741,Partner Org,web,15241
+742,Vulnerability Scan Results 0742,Open Source,dns,18788
+743,Web Proxy Logs 0743,Internal SOC,cloud,23059
+744,Vulnerability Scan Results 0744,Internal SOC,web,45815
+745,Threat Intel Feed 0745,Vendor B,dns,20052
+746,Threat Intel Feed 0746,Vendor A,threat_intel,6973
+747,Endpoint Telemetry 0747,MITRE ATT&CK,endpoint,27674
+748,DNS Query Logs 0748,Internal SOC,siem,10897
+749,Web Proxy Logs 0749,Partner Org,endpoint,12130
+750,DNS Query Logs 0750,CISA,vulnerability,26520
+751,DNS Query Logs 0751,Vendor B,identity,49369
+752,DNS Query Logs 0752,Open Source,email,20561
+753,Web Proxy Logs 0753,Vendor A,endpoint,42332
+754,Endpoint Telemetry 0754,Vendor B,email,13302
+755,Endpoint Telemetry 0755,Partner Org,threat_intel,13591
+756,Cloud Audit Trails 0756,Internal SOC,web,19035
+757,DNS Query Logs 0757,Vendor A,vulnerability,4303
+758,Web Proxy Logs 0758,Open Source,siem,2411
+759,Threat Intel Feed 0759,Open Source,threat_intel,12966
+760,SIEM Alerts 0760,MITRE ATT&CK,threat_intel,21097
+761,SIEM Alerts 0761,CISA,identity,39942
+762,Cloud Audit Trails 0762,Open Source,email,11478
+763,Email Gateway Logs 0763,MITRE ATT&CK,network,33166
+764,SIEM Alerts 0764,Internal SOC,network,6020
+765,Endpoint Telemetry 0765,Vendor A,vulnerability,42968
+766,Network Logs 0766,Partner Org,vulnerability,356
+767,DNS Query Logs 0767,CISA,identity,17796
+768,Identity Access Logs 0768,Vendor A,cloud,23121
+769,Network Logs 0769,Vendor A,dns,13535
+770,Identity Access Logs 0770,MITRE ATT&CK,threat_intel,12682
+771,Network Logs 0771,Partner Org,network,9696
+772,Network Logs 0772,Internal SOC,vulnerability,13906
+773,DNS Query Logs 0773,Partner Org,cloud,9894
+774,Vulnerability Scan Results 0774,Open Source,web,39917
+775,Identity Access Logs 0775,CISA,identity,1966
+776,Identity Access Logs 0776,MITRE ATT&CK,email,49052
+777,Cloud Audit Trails 0777,Vendor B,email,37583
+778,Email Gateway Logs 0778,Partner Org,threat_intel,34255
+779,Endpoint Telemetry 0779,CISA,email,11559
+780,Threat Intel Feed 0780,Vendor A,siem,17533
+781,Network Logs 0781,MITRE ATT&CK,network,22815
+782,Identity Access Logs 0782,CISA,vulnerability,9615
+783,Email Gateway Logs 0783,Vendor B,network,45061
+784,Cloud Audit Trails 0784,Internal SOC,identity,38505
+785,Identity Access Logs 0785,Open Source,vulnerability,33694
+786,Endpoint Telemetry 0786,MITRE ATT&CK,siem,34807
+787,Email Gateway Logs 0787,CISA,siem,314
+788,Threat Intel Feed 0788,Open Source,siem,44878
+789,DNS Query Logs 0789,Internal SOC,endpoint,28797
+790,Vulnerability Scan Results 0790,Partner Org,dns,2377
+791,Email Gateway Logs 0791,Internal SOC,threat_intel,27400
+792,Identity Access Logs 0792,Open Source,dns,4110
+793,Email Gateway Logs 0793,Partner Org,threat_intel,45230
+794,Identity Access Logs 0794,Partner Org,dns,36386
+795,Vulnerability Scan Results 0795,MITRE ATT&CK,cloud,17542
+796,Threat Intel Feed 0796,Vendor A,network,9066
+797,Identity Access Logs 0797,Vendor A,identity,38596
+798,Vulnerability Scan Results 0798,Open Source,dns,41013
+799,Email Gateway Logs 0799,Vendor A,network,11691
+800,Identity Access Logs 0800,Vendor A,identity,18463
+801,Web Proxy Logs 0801,Vendor A,network,10739
+802,SIEM Alerts 0802,Internal SOC,network,23925
+803,Web Proxy Logs 0803,Partner Org,dns,23971
+804,Identity Access Logs 0804,Partner Org,dns,32200
+805,SIEM Alerts 0805,MITRE ATT&CK,web,6908
+806,DNS Query Logs 0806,Partner Org,web,19693
+807,Threat Intel Feed 0807,Open Source,endpoint,3284
+808,Web Proxy Logs 0808,Vendor A,identity,8888
+809,Network Logs 0809,Internal SOC,threat_intel,37379
+810,Vulnerability Scan Results 0810,Internal SOC,network,24059
+811,Cloud Audit Trails 0811,Internal SOC,threat_intel,35433
+812,Identity Access Logs 0812,Open Source,dns,26337
+813,Network Logs 0813,Partner Org,cloud,25669
+814,DNS Query Logs 0814,Vendor B,endpoint,32787
+815,Endpoint Telemetry 0815,Partner Org,email,34633
+816,Identity Access Logs 0816,Vendor B,siem,38354
+817,Email Gateway Logs 0817,Vendor A,identity,31709
+818,Cloud Audit Trails 0818,Vendor B,email,42643
+819,SIEM Alerts 0819,Partner Org,endpoint,8826
+820,Email Gateway Logs 0820,Open Source,cloud,9541
+821,Cloud Audit Trails 0821,Internal SOC,dns,17333
+822,Web Proxy Logs 0822,CISA,email,19816
+823,Vulnerability Scan Results 0823,MITRE ATT&CK,dns,35676
+824,Network Logs 0824,Partner Org,vulnerability,40687
+825,DNS Query Logs 0825,Vendor A,endpoint,25027
+826,Vulnerability Scan Results 0826,Vendor A,cloud,22732
+827,Cloud Audit Trails 0827,Partner Org,vulnerability,48201
+828,Network Logs 0828,CISA,vulnerability,38461
+829,Vulnerability Scan Results 0829,MITRE ATT&CK,vulnerability,16408
+830,Vulnerability Scan Results 0830,Partner Org,endpoint,39688
+831,DNS Query Logs 0831,Internal SOC,network,29411
+832,Network Logs 0832,CISA,dns,46708
+833,Cloud Audit Trails 0833,Vendor B,identity,40263
+834,SIEM Alerts 0834,Partner Org,email,33402
+835,SIEM Alerts 0835,Internal SOC,dns,15399
+836,Vulnerability Scan Results 0836,CISA,email,15560
+837,DNS Query Logs 0837,CISA,vulnerability,40534
+838,Network Logs 0838,Open Source,dns,21678
+839,Identity Access Logs 0839,Partner Org,vulnerability,32001
+840,Identity Access Logs 0840,MITRE ATT&CK,endpoint,32743
+841,Network Logs 0841,CISA,vulnerability,33011
+842,DNS Query Logs 0842,Internal SOC,identity,48068
+843,SIEM Alerts 0843,MITRE ATT&CK,network,40508
+844,SIEM Alerts 0844,Open Source,identity,47879
+845,Identity Access Logs 0845,CISA,network,43753
+846,Network Logs 0846,Vendor A,siem,45469
+847,SIEM Alerts 0847,Vendor A,dns,24578
+848,SIEM Alerts 0848,Internal SOC,network,36246
+849,Network Logs 0849,Internal SOC,identity,8703
+850,SIEM Alerts 0850,Vendor B,vulnerability,16651
+851,Vulnerability Scan Results 0851,MITRE ATT&CK,identity,33631
+852,Network Logs 0852,CISA,email,6781
+853,DNS Query Logs 0853,Open Source,endpoint,7521
+854,Web Proxy Logs 0854,Partner Org,cloud,16416
+855,Email Gateway Logs 0855,MITRE ATT&CK,identity,34212
+856,Network Logs 0856,Vendor A,vulnerability,33654
+857,Identity Access Logs 0857,Partner Org,cloud,8154
+858,Endpoint Telemetry 0858,CISA,threat_intel,46236
+859,DNS Query Logs 0859,Partner Org,identity,36019
+860,Identity Access Logs 0860,Internal SOC,email,4053
+861,Cloud Audit Trails 0861,Internal SOC,siem,13120
+862,Vulnerability Scan Results 0862,Vendor A,web,23694
+863,Network Logs 0863,CISA,dns,2946
+864,Identity Access Logs 0864,Internal SOC,threat_intel,19568
+865,Endpoint Telemetry 0865,Vendor A,web,28695
+866,Threat Intel Feed 0866,Vendor B,web,28461
+867,Web Proxy Logs 0867,Internal SOC,dns,39733
+868,Identity Access Logs 0868,CISA,email,42009
+869,SIEM Alerts 0869,Internal SOC,cloud,45735
+870,Vulnerability Scan Results 0870,MITRE ATT&CK,endpoint,21744
+871,Network Logs 0871,MITRE ATT&CK,siem,30693
+872,Vulnerability Scan Results 0872,Vendor A,network,29770
+873,Web Proxy Logs 0873,Vendor B,cloud,5493
+874,Email Gateway Logs 0874,MITRE ATT&CK,web,37445
+875,Email Gateway Logs 0875,Internal SOC,dns,15278
+876,Network Logs 0876,MITRE ATT&CK,endpoint,39364
+877,Threat Intel Feed 0877,Open Source,email,9703
+878,Web Proxy Logs 0878,Partner Org,identity,48233
+879,Email Gateway Logs 0879,CISA,dns,16309
+880,SIEM Alerts 0880,MITRE ATT&CK,endpoint,2782
+881,Web Proxy Logs 0881,Vendor B,email,40515
+882,Cloud Audit Trails 0882,Vendor A,vulnerability,43358
+883,Web Proxy Logs 0883,Open Source,threat_intel,43757
+884,Threat Intel Feed 0884,Vendor A,identity,45031
+885,Endpoint Telemetry 0885,Internal SOC,vulnerability,48299
+886,Identity Access Logs 0886,Partner Org,cloud,27734
+887,Email Gateway Logs 0887,Open Source,siem,35291
+888,SIEM Alerts 0888,MITRE ATT&CK,web,6379
+889,Vulnerability Scan Results 0889,Partner Org,endpoint,6441
+890,DNS Query Logs 0890,Internal SOC,cloud,28736
+891,Email Gateway Logs 0891,Partner Org,endpoint,30821
+892,Web Proxy Logs 0892,Open Source,cloud,6767
+893,Cloud Audit Trails 0893,Partner Org,cloud,42956
+894,Endpoint Telemetry 0894,Vendor A,cloud,30429
+895,DNS Query Logs 0895,MITRE ATT&CK,vulnerability,18496
+896,Email Gateway Logs 0896,CISA,cloud,36982
+897,Endpoint Telemetry 0897,MITRE ATT&CK,network,6791
+898,Network Logs 0898,CISA,endpoint,37916
+899,Email Gateway Logs 0899,Vendor A,threat_intel,2484
+900,Web Proxy Logs 0900,MITRE ATT&CK,dns,12607
+901,Endpoint Telemetry 0901,Vendor A,threat_intel,2183
+902,Web Proxy Logs 0902,Open Source,network,45631
+903,Endpoint Telemetry 0903,CISA,dns,28184
+904,Email Gateway Logs 0904,Open Source,cloud,36474
+905,Vulnerability Scan Results 0905,CISA,email,45414
+906,Cloud Audit Trails 0906,MITRE ATT&CK,endpoint,19605
+907,Identity Access Logs 0907,Partner Org,email,9962
+908,Identity Access Logs 0908,Vendor A,siem,41431
+909,Cloud Audit Trails 0909,Open Source,cloud,47799
+910,Network Logs 0910,Internal SOC,vulnerability,16538
+911,SIEM Alerts 0911,CISA,network,827
+912,DNS Query Logs 0912,Vendor A,dns,3940
+913,Threat Intel Feed 0913,CISA,network,2584
+914,Vulnerability Scan Results 0914,Vendor A,email,2617
+915,SIEM Alerts 0915,Open Source,endpoint,44955
+916,Endpoint Telemetry 0916,Internal SOC,cloud,20426
+917,Network Logs 0917,Vendor A,siem,28313
+918,Vulnerability Scan Results 0918,Open Source,endpoint,11115
+919,Threat Intel Feed 0919,MITRE ATT&CK,siem,8316
+920,DNS Query Logs 0920,Internal SOC,siem,35044
+921,DNS Query Logs 0921,Vendor A,vulnerability,49883
+922,Threat Intel Feed 0922,Open Source,web,11374
+923,Vulnerability Scan Results 0923,Vendor A,siem,19718
+924,Vulnerability Scan Results 0924,Vendor B,cloud,12099
+925,DNS Query Logs 0925,MITRE ATT&CK,cloud,6125
+926,Identity Access Logs 0926,Vendor A,dns,29973
+927,DNS Query Logs 0927,Open Source,email,34908
+928,Endpoint Telemetry 0928,Open Source,vulnerability,32124
+929,Endpoint Telemetry 0929,Open Source,identity,28951
+930,Cloud Audit Trails 0930,MITRE ATT&CK,email,4414
+931,Threat Intel Feed 0931,Partner Org,threat_intel,49348
+932,Cloud Audit Trails 0932,Vendor B,cloud,13561
+933,Threat Intel Feed 0933,Open Source,dns,13367
+934,Network Logs 0934,Vendor B,cloud,31194
+935,Web Proxy Logs 0935,MITRE ATT&CK,network,19957
+936,Threat Intel Feed 0936,CISA,vulnerability,1407
+937,Threat Intel Feed 0937,Vendor B,web,20338
+938,Threat Intel Feed 0938,Vendor B,vulnerability,670
+939,Web Proxy Logs 0939,MITRE ATT&CK,siem,49447
+940,SIEM Alerts 0940,MITRE ATT&CK,endpoint,386
+941,DNS Query Logs 0941,Vendor B,email,13453
+942,Email Gateway Logs 0942,Internal SOC,identity,29025
+943,Endpoint Telemetry 0943,Internal SOC,dns,13872
+944,Threat Intel Feed 0944,Partner Org,endpoint,19742
+945,Cloud Audit Trails 0945,Partner Org,dns,29198
+946,Endpoint Telemetry 0946,Vendor A,siem,45366
+947,DNS Query Logs 0947,MITRE ATT&CK,dns,2270
+948,Network Logs 0948,Open Source,network,36799
+949,Identity Access Logs 0949,Open Source,endpoint,24190
+950,Identity Access Logs 0950,Open Source,cloud,25682
+951,DNS Query Logs 0951,Partner Org,vulnerability,16209
+952,Network Logs 0952,Internal SOC,identity,20614
+953,DNS Query Logs 0953,CISA,vulnerability,2332
+954,Endpoint Telemetry 0954,Partner Org,identity,43396
+955,Email Gateway Logs 0955,Vendor B,siem,39335
+956,Cloud Audit Trails 0956,Partner Org,cloud,28426
+957,Network Logs 0957,Partner Org,threat_intel,30203
+958,Email Gateway Logs 0958,Vendor B,dns,35777
+959,Web Proxy Logs 0959,CISA,siem,4892
+960,DNS Query Logs 0960,Partner Org,network,44767
+961,Vulnerability Scan Results 0961,Vendor B,web,38587
+962,Threat Intel Feed 0962,Open Source,identity,47720
+963,Email Gateway Logs 0963,Internal SOC,identity,6544
+964,SIEM Alerts 0964,Open Source,dns,16565
+965,Threat Intel Feed 0965,MITRE ATT&CK,vulnerability,42139
+966,Vulnerability Scan Results 0966,CISA,network,36586
+967,Endpoint Telemetry 0967,Internal SOC,cloud,18281
+968,Threat Intel Feed 0968,Open Source,network,3294
+969,Endpoint Telemetry 0969,Open Source,network,26285
+970,Cloud Audit Trails 0970,MITRE ATT&CK,endpoint,12348
+971,DNS Query Logs 0971,CISA,threat_intel,36424
+972,DNS Query Logs 0972,Internal SOC,vulnerability,27584
+973,DNS Query Logs 0973,Open Source,cloud,44743
+974,SIEM Alerts 0974,MITRE ATT&CK,email,24679
+975,Threat Intel Feed 0975,Vendor A,identity,38208
+976,Network Logs 0976,MITRE ATT&CK,cloud,6036
+977,Vulnerability Scan Results 0977,Internal SOC,email,12738
+978,Threat Intel Feed 0978,Vendor A,network,46795
+979,Email Gateway Logs 0979,Open Source,dns,20728
+980,Network Logs 0980,MITRE ATT&CK,network,24287
+981,SIEM Alerts 0981,MITRE ATT&CK,siem,45107
+982,Web Proxy Logs 0982,Vendor A,threat_intel,12680
+983,DNS Query Logs 0983,Open Source,identity,36499
+984,Threat Intel Feed 0984,Vendor A,web,42407
+985,Threat Intel Feed 0985,Vendor B,vulnerability,12827
+986,Identity Access Logs 0986,Vendor A,cloud,26719
+987,Cloud Audit Trails 0987,CISA,identity,36150
+988,Vulnerability Scan Results 0988,Open Source,cloud,6010
+989,Threat Intel Feed 0989,Vendor B,endpoint,31733
+990,DNS Query Logs 0990,Vendor A,endpoint,38251
+991,Network Logs 0991,CISA,email,35696
+992,SIEM Alerts 0992,Partner Org,vulnerability,3494
+993,Cloud Audit Trails 0993,CISA,endpoint,6408
+994,Cloud Audit Trails 0994,CISA,network,5317
+995,Network Logs 0995,Vendor B,email,42746
+996,Endpoint Telemetry 0996,Open Source,siem,7668
+997,SIEM Alerts 0997,Open Source,cloud,34968
+998,Threat Intel Feed 0998,Vendor A,dns,6651
+999,SIEM Alerts 0999,CISA,threat_intel,237
+1000,SIEM Alerts 1000,Internal SOC,network,13957
